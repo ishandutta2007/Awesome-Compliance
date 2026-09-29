@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Compliance/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Compliance?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Compliance/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Compliance?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Compliance/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Compliance?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Compliance/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -69,39 +69,39 @@ The following curated table compares leading compliance automation and enterpris
 
 While full commercial suites offer turn-key auditor networks, an expanding ecosystem of open-source software empowers security engineers to build transparent, self-hosted, and lock-in-free compliance pipelines.
 
-*List sorted by **GitHub Stars** (descending).*
+*List sorted by **GitHub_Stars** (descending).*
 
-1. **[Trivy](https://github.com/aquasecurity/trivy)** [![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) 🔍  
+1. **[Trivy](https://github.com/aquasecurity/trivy)** [![GitHub_Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) 🔍  
    Comprehensive, versatile security scanner for container images, file systems, Git repositories, infrastructure-as-code (IaC), Kubernetes configurations, and SBOMs.
 
-2. **[Wazuh](https://github.com/wazuh/wazuh)** [![GitHub stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers) 🛡️  
+2. **[Wazuh](https://github.com/wazuh/wazuh)** [![GitHub_Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers) 🛡️  
    Open-source security monitoring, threat detection, integrity monitoring, and continuous regulatory compliance enforcement platform (PCI DSS, HIPAA, NIST 800-53, GDPR).
 
-3. **[Prowler](https://github.com/prowler-cloud/prowler)** [![GitHub stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers) ☁️  
+3. **[Prowler](https://github.com/prowler-cloud/prowler)** [![GitHub_Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers) ☁️  
    Multi-cloud security assessment, continuous auditing, and compliance framework scanner for AWS, Azure, GCP, and Kubernetes (CIS Benchmarks, SOC 2, ISO 27001).
 
-4. **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers) 📜  
+4. **[Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa)** [![GitHub_Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers) 📜  
    Unified open-source policy engine enabling policy-as-code enforcement across microservices, Kubernetes clusters, CI/CD pipelines, and cloud APIs.
 
-5. **[Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)** [![GitHub stars](https://img.shields.io/github/stars/cloud-custodian/cloud-custodian?style=social&color=white)](https://github.com/cloud-custodian/cloud-custodian/stargazers) ☁️  
+5. **[Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)** [![GitHub_Stars](https://img.shields.io/github/stars/cloud-custodian/cloud-custodian?style=social&color=white)](https://github.com/cloud-custodian/cloud-custodian/stargazers) ☁️  
    Stateless rules engine for real-time cloud security, automated governance, continuous compliance policy enforcement, and cloud resource cost management.
 
-6. **[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers) 🐛  
+6. **[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub_Stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers) 🐛  
    Application vulnerability management and audit evidence correlation tool designed to streamline security compliance tracking across dev pipelines.
 
-7. **[CISO Assistant](https://github.com/intuitem/ciso-assistant-community)** [![GitHub stars](https://img.shields.io/github/stars/intuitem/ciso-assistant-community?style=social&color=white)](https://github.com/intuitem/ciso-assistant-community/stargazers) 💼  
+7. **[CISO Assistant](https://github.com/intuitem/ciso-assistant-community)** [![GitHub_Stars](https://img.shields.io/github/stars/intuitem/ciso-assistant-community?style=social&color=white)](https://github.com/intuitem/ciso-assistant-community/stargazers) 💼  
    Open-source GRC platform designed to automate cybersecurity risk management, control mapping, and multi-framework audit workflows (ISO 27001, NIS2, NIST CSF).
 
-8. **[ComplianceAsCode](https://github.com/ComplianceAsCode/content)** [![GitHub stars](https://img.shields.io/github/stars/ComplianceAsCode/content?style=social&color=white)](https://github.com/ComplianceAsCode/content/stargazers) 💻  
+8. **[ComplianceAsCode](https://github.com/ComplianceAsCode/content)** [![GitHub_Stars](https://img.shields.io/github/stars/ComplianceAsCode/content?style=social&color=white)](https://github.com/ComplianceAsCode/content/stargazers) 💻  
    Open security compliance content project delivering automated SCAP, OSCAL, and Ansible security hardening rules for enterprise Linux operating systems and cloud platforms.
 
-9. **[OSCAL (NIST)](https://github.com/usnistgov/OSCAL)** [![GitHub stars](https://img.shields.io/github/stars/usnistgov/OSCAL?style=social&color=white)](https://github.com/usnistgov/OSCAL/stargazers) 🏛️  
+9. **[OSCAL (NIST)](https://github.com/usnistgov/OSCAL)** [![GitHub_Stars](https://img.shields.io/github/stars/usnistgov/OSCAL?style=social&color=white)](https://github.com/usnistgov/OSCAL/stargazers) 🏛️  
    Open Security Controls Assessment Language developed by NIST—standardized, machine-readable JSON/YAML formats for control catalogs, system security plans (SSPs), and assessment results.
 
-10. **[Openlane](https://github.com/theopenlane/core)** [![GitHub stars](https://img.shields.io/github/stars/theopenlane/core?style=social&color=white)](https://github.com/theopenlane/core/stargazers) 🏗️  
+10. **[Openlane](https://github.com/theopenlane/core)** [![GitHub_Stars](https://img.shields.io/github/stars/theopenlane/core?style=social&color=white)](https://github.com/theopenlane/core/stargazers) 🏗️  
     Open-source continuous compliance automation platform supporting SOC 2, ISO 27001, GDPR, and NIST 800-53 policy management, control registries, and evidence pipelines.
 
-11. **[OCEAN](https://github.com/grcengineering/OCEAN)** [![GitHub stars](https://img.shields.io/github/stars/grcengineering/OCEAN?style=social&color=white)](https://github.com/grcengineering/OCEAN/stargazers) 🌊  
+11. **[OCEAN](https://github.com/grcengineering/OCEAN)** [![GitHub_Stars](https://img.shields.io/github/stars/grcengineering/OCEAN?style=social&color=white)](https://github.com/grcengineering/OCEAN/stargazers) 🌊  
     Open-source CLI and engine for continuous control testing, active evidence collection, normalization, and auditor-ready data pipeline integration.
 
 ---
