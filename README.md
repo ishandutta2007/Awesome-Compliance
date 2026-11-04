@@ -62,6 +62,7 @@ The following curated table compares leading compliance automation and enterpris
 | **[Thoropass](https://thoropass.com/)** 🤝 | Integrated compliance solution combining automated evidence collection software with embedded auditor services for SOC 2/ISO. | **$750/mo** ($9,000/yr starting tier) | Free tier for DDQ tool; 14-day trial for main platform | **~$150 Million Valuation** ($20M+ ARR) |
 | **[Sprinto](https://sprinto.com/)** 🎯 | Engineering-friendly compliance automation platform designed for fast SOC 2, ISO 27001, and GDPR readiness. | **$416/mo** ($5,000/yr starting tier) | 14-day full feature trial available upon request | **$35 Million Valuation** ($20M+ ARR) |
 | **[Scytale](https://scytale.ai/)** 🚀 | Compliance automation platform assisting growing technology startups in accelerating SOC 2 and ISO audit preparation. | **$375/mo** ($4,500/yr starting tier) | 14-day guided sandbox demo for early-stage startups | **~$30 Million Valuation** ($10M+ ARR) |
+| **[Attestlane](https://attestlane.to)** 🧭 | SOC 2 readiness for 1–50 person B2B software teams: AI-drafted policies for the team to review, a 39-item evidence checklist and an auditor-ready package. Readiness software, not an audit. | **$99/mo** ($199 and $299/mo tiers) | Free 20-question SOC 2 readiness assessment with gap report | **Bootstrapped; launched Oct 2026** |
 
 ---
 
